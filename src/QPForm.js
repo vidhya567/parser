@@ -7,7 +7,7 @@ import ReactDOM from 'react-dom';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import './form.css';
 
-export default class QPForm extends React.Component {
+export default class auQpForm extends React.Component {
 
     constructor(props) {
         super(props);
